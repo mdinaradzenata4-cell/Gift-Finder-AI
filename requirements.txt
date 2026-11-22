@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+langchain-core
+requests
+streamlit
+typing_extensions
