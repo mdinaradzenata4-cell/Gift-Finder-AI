@@ -2,7 +2,7 @@
 # Gift Finder AI 🎁
 # 🎁 Gift Finder AI
 
-**Live Demo:** https://gift-finder-ai-suydhqky6we2veyyaymcxt.streamlit.app
+**Live Demo:** https://gift-finder-ai-suydhqky6we2veyvaymcxt.streamlit.app/
 
 **GitHub Repository:** https://github.com/mdinaradzenata4-cell/Gift-Finder-AI
 
