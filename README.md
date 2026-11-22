@@ -1,5 +1,11 @@
 
 # Gift Finder AI 🎁
+# 🎁 Gift Finder AI
+
+**Live Demo:** https://gift-finder-ai-suydhqky6we2veyyaymcxt.streamlit.app
+
+**GitHub Repository:** https://github.com/mdinaradzenata4-cell/Gift-Finder-AI
+
 
 ## პროექტის აღწერა
 Gift Finder AI არის ხელოვნურ ინტელექტზე დაფუძნებული ასისტენტი, რომელიც მომხმარებელს ეხმარება საჩუქრის შერჩევაში. ის ითვალისწინებს ადრესატის ინტერესებს, ბიუჯეტსა და შემთხვევას. აგენტს შეუძლია პროდუქტების მოძიება გარე API-ის საშუალებით, საჩუქრების შენახვა სურვილების სიაში, შენახული საჩუქრების ჩვენება და წაშლა მომხმარებლის თანხმობის შემდეგ.
