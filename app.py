@@ -5,6 +5,10 @@ import streamlit as st
 
 from langgraph.types import Command
 from agent import build_graph
+# API გასაღების მიღება Streamlit Secrets-იდან
+if "GROQ_API_KEY" in st.secrets:
+    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+    from agent import build_graph
 
 
 # Page settings
